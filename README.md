@@ -51,3 +51,25 @@ You can click the Preview link to take a look at your changes.
     </footer>
 </body>
 </html>
+
+<main>
+    <section class="product">
+        <img src="product1.jpg" alt="Product 1">
+        <h2>Product 1</h2>
+        <p>$50.00</p>
+        <button>Add to Cart</button>
+    </section>
+
+    <section class="product">
+        <img src="product2.jpg" alt="Product 2">
+        <h2>Product 2</h2>
+        <p>$40.00</p>
+        <button>Add to Cart</button>
+    </section>
+
+    <!-- Add more product sections as needed -->
+</main>
+
+<footer>
+    <p>&copy; 2023 Simple E-Commerce</p>
+</footer>
